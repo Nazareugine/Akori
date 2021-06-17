@@ -1,6 +1,7 @@
 # Akori - Laravel 8.0+ and Larawind Template
 
 Application to Analyze Coffee Sales Patterns at XYZ Cafe Using Web-Based Apriori Algorithm
+
 (Aplikasi Penganalisa Pola Penjualan Kopi Pada Cafe XYZ Menggunakan Algoritma Apriori Berbasis Web)
 
 This project is created with [Larawind Laravel Template](https://github.com/miten5/larawind)
