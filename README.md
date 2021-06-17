@@ -1,4 +1,6 @@
-# Larawind - Laravel 8.0+ Jetstream and Tailwind CSS Admin Theme
+# Akori - Laravel 8.0+ and Larawind Template
+
+This project is created with [Larawind Laravel Template](https://github.com/miten5/larawind)
 
 This project is created with [Laravel Jetstream](https://jetstream.laravel.com/1.x/introduction.html) Framework and [Tailwind CSS](https://tailwindcss.com), the admin environment is desing by [Windmill Dashboard](https://windmill-dashboard.vercel.app/).
 
@@ -36,3 +38,4 @@ php artisan serve
 - [Laravel Jetstream](https://jetstream.laravel.com/1.x/introduction.html)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Windmill Dashboard](https://windmill-dashboard.vercel.app/)
+- [Original Larawind Template](https://github.com/miten5/larawind)
