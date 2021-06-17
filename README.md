@@ -27,7 +27,7 @@ composer install
 npm install && npm run dev
 
 # Start prepare the environment:
-cp .env.example .env // setup database credentials
+copy .env.example .env // setup database credentials
 php artisan key:generate
 php artisan migrate
 php artisan storage:link
